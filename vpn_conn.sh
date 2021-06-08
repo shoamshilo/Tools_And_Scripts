@@ -1,6 +1,6 @@
 #! /bin/bash
 
-vpn_dir "~/opt/openvpn/"
+vpn_dir "/opt/openvpn/"
 
 cd $vpn_dir
 

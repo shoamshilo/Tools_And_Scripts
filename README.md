@@ -13,7 +13,7 @@
 
 ### Installation:
 
-#### clone thw repo to your local machine
+#### clone the repo to your local machine
 
 ```
 git clone https://github.com/shoamshilo/Tools_And_Scripts
