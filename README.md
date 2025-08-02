@@ -40,3 +40,4 @@ chmod +x AutoXss.sh
 
 #### Tool to automatically connect to a given vpn server. 
 
+# updated 2025
